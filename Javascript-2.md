@@ -715,5 +715,14 @@ console.log(person); // Object {first-name: 'Ung-mo', last-name: 'Lee'}
 
 ## pass-by-reference
 
+- 기본자료형은 새로운 값입력하면 중복할당 되는데 
+- 객체는 참조(주소)값을 준다 = 단일객체를 쓴다: 어디서 바뀌든 하나임으로 
+~~~
+var foo = obj;
+// foo 값바꾸면 obj도 바뀜
+~~~ 
+// 객체값이 넘어가는게 아니라 
 
+## pass-by-value
+- 기본자료형. 값이넘어감
 
