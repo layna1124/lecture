@@ -19,3 +19,8 @@ $ npm install --save bootstrap
 
 package.json이 존재하지 않는 경우에만 init(초기화)함.
 설치가 완료되면 프로젝트 폴더의 루트에 node_modules 폴더가 생성되고, node_modules/bootstrap/dist 폴더에 설치파일이 존재한다.
+
+
+> Grunt
+
+node.js 부터설치 
